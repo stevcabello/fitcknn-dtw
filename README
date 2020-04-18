@@ -1,10 +1,16 @@
-sources links:
+Matlab implementation of 1NN-DTW classifier.
 
+1-nearest neighbour with dynamic time warping (1NN-DTW) classifier is considered a strong baseline for time series classification
+task. However, Matlab does not provide a straighforward implementation of this classifier. 
+
+This implementation is useful for practitioners of time series classification that prefer Matlab as programming language and
+want a train their models using this classifier.
+
+
+For an example just run --> Main.m
+
+
+source links:
 https://au.mathworks.com/help/stats/fitcknn.html
-
 https://au.mathworks.com/help/signal/ref/dtw.html
-
 https://stackoverflow.com/questions/27752637/matlab-using-pdist-to-deal-with-time-series-clustering
-
-
-run Main.m
