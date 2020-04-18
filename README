@@ -1,4 +1,4 @@
-###Matlab implementation of 1NN-DTW classifier.
+### Matlab implementation of 1NN-DTW classifier.
 
 1-nearest neighbour with dynamic time warping (1NN-DTW) classifier is considered a strong baseline for time series classification
 task. However, Matlab does not provide a straighforward implementation of this classifier. 
